@@ -9,4 +9,4 @@ Text classification is the task of assigning predefined categories or labels to 
 2. scikit-learn
 3. nltk (Natural Language Toolkit)
 # Sample Image
-![Screenshot 2024-03-27 105301](https://github.com/Amit-Git-project/Text-Classification/assets/113319871/a685474b-fa62-4ed7-86a0-7797c8f0e831)
+![Screenshot 2024-03-27 105614](https://github.com/Amit-Git-project/Text-Classification/assets/113319871/0edee9a0-43c5-46c4-8309-75bc653ccaaa)
